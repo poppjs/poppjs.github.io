@@ -1,0 +1,21 @@
+
+/*横屏css*/
+/*主页*/
+body{
+	/*background: #204D74;*/
+}
+a input{
+	height: 30px;
+	margin-top: 5px;
+}
+a img{
+	margin-top: 10px;
+}
+a h3{
+	text-align: center;
+}
+.btn{
+	margin-top: 5px;
+}
+
+/*个人信息*/
